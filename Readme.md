@@ -32,7 +32,7 @@ https://simulator.sandbox.midtrans.com/
 
 Note: Dikasih nilai 100 boleh kali pak wkwkwkwkwkwk 😁😁
 
-Our Developer :
+Our Team Developer :
 - Bagas Dwiki Purnomo
 - Muhammad Bilal Dzakwan
 - Rafi Novriansyah Kusuma
