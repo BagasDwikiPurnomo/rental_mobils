@@ -5,7 +5,18 @@ Recars adalah aplikasi berbasis web yang menyediakan layanan untuk merental dua 
 ## Screenshots
 
 Tampilan Halaman Index ( User Page )
+
 ![User Page](https://gcdnb.pbrd.co/images/SJIFt1akWfxh.png?o=1)
+
+Tampilan Halaman Admin Page
+Bisa diakses dengan menambahkan URL /admin
+Lebih lengkapnya : localhost/rental_mobils/admin
+
+Untuk User, Password Defaultnya itu : Bagas, 123
+
+![Admin Page](https://pasteboard.co/47r0VuIFTsg9.png)
+![Admin Page](https://pasteboard.co/C6QPG5KkaYW2.png)
+
 
 ## How to Use
 
