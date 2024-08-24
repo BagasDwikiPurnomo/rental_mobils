@@ -24,4 +24,10 @@ Kondisi jika user blm login dan ingin melakukan rental
 
 ## How to Use
 
-Instructions on how to use the project.
+Simple aja yahhh
+- Download Project di repo ini sebagai zip atau jg bisa git clone
+- Saat melakukan payment midtrans tolong jangan dibayar beneran soalnya masih sandbox
+jika payment methodnya virtual bca maka dicopy idnya lalu di bayar melalui simulator Midtrans
+https://simulator.sandbox.midtrans.com/
+
+
