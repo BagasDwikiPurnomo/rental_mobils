@@ -6,7 +6,7 @@ Recars adalah aplikasi berbasis web yang menyediakan layanan untuk merental dua 
 
 Tampilan Halaman Index ( User Page )
 
-![User Page](https://gcdnb.pbrd.co/images/SJIFt1akWfxh.png?o=1)
+![User Page](https://gcdnb.pbrd.co/images/eaKTsQn0VYCw.png?o=1)
 
 Tampilan Halaman Admin Page
 Bisa diakses dengan menambahkan URL /admin
