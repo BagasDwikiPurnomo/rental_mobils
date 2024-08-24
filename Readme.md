@@ -4,7 +4,8 @@ Recars adalah aplikasi berbasis web yang menyediakan layanan untuk merental dua 
 
 ## Screenshots
 
-![Screenshot](https://example.com/path/to/screenshot.png)
+Tampilan Halaman Index ( User Page )
+![User Page](https://gcdnb.pbrd.co/images/SJIFt1akWfxh.png?o=1)
 
 ## How to Use
 
