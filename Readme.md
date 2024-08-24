@@ -14,8 +14,8 @@ Lebih lengkapnya : localhost/rental_mobils/admin
 
 Untuk User, Password Defaultnya itu : Bagas, 123
 
-![Admin Page](https://pasteboard.co/47r0VuIFTsg9.png)
-![Admin Page](https://pasteboard.co/C6QPG5KkaYW2.png)
+![Admin Page](https://gcdnb.pbrd.co/images/47r0VuIFTsg9.png?o=1)
+![Admin Page](https://gcdnb.pbrd.co/images/C6QPG5KkaYW2.png?o=1)
 
 
 ## How to Use
