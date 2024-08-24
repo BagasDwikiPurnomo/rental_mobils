@@ -12,7 +12,7 @@ Tampilan Halaman Admin Page
 Bisa diakses dengan menambahkan URL /admin
 Lebih lengkapnya : localhost/rental_mobils/admin
 
-Untuk User, Password Defaultnya itu : Bagas, 123
+Untuk akun User, Username dan Password Defaultnya itu : Bagas, 123
 
 ![Admin Page](https://gcdnb.pbrd.co/images/47r0VuIFTsg9.png?o=1)
 ![Admin Page](https://gcdnb.pbrd.co/images/C6QPG5KkaYW2.png?o=1)
