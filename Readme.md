@@ -1,4 +1,4 @@
-# Project Recars
+![image](https://github.com/user-attachments/assets/c79caeb2-fb9c-4b8e-93ca-b7a92ee6d676)# Project Recars
 
 Recars adalah aplikasi berbasis web yang menyediakan layanan untuk merental dua merek mobil terkenal yaitu BMW dan Mercedes, Tidak hanya itu pembayaran pada Recars sudah diintegrasikan menggunakan Midtrans. User dapat melihat-lihat mobil dan jika ingin merental mobil maka perlu login terlebih dahulu. Selain halaman user, Project ini menyediakan Admin page untuk mengatur data-data users, data mobil dan juga dapat mengexport data laporan perental menjadi file excel. Dan terakhir, project ini menggunakan database online jadi pastikan untuk memiliki jaringan internet yang stabil.
 
@@ -16,6 +16,10 @@ Untuk User, Password Defaultnya itu : Bagas, 123
 
 ![Admin Page](https://gcdnb.pbrd.co/images/47r0VuIFTsg9.png?o=1)
 ![Admin Page](https://gcdnb.pbrd.co/images/C6QPG5KkaYW2.png?o=1)
+
+Kondisi jika user blm login dan ingin melakukan rental
+
+![Admin Page](https://gcdnb.pbrd.co/images/nJMZELox3Km2.png?o=1)
 
 
 ## How to Use
