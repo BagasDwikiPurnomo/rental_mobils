@@ -30,4 +30,13 @@ Simple aja yahhh
 jika payment methodnya virtual bca maka dicopy idnya lalu di bayar melalui simulator Midtrans
 https://simulator.sandbox.midtrans.com/
 
+Note: Dikasih nilai 100 boleh kali pak wkwkwkwkwkwk 😁😁
+
+Our Developer :
+- Bagas Dwiki Purnomo
+- Muhammad Bilal Dzakwan
+- Rafi Novriansyah Kusuma
+  
+© [2024] Recars Team. All rights reserved.
+
 
